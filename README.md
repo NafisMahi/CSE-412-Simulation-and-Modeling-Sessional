@@ -7,9 +7,8 @@ This repository contains all the assignments for the course CSE412.
 - [Solution](https://github.com/NafisMahi/CSE-412-Simulation-and-Modeling-Sessional/tree/main/Offline_1)
 
 ## Offline 2: Single Product Inventory System Simulation
-- [Problem Statement](https://example.com/CSE412/offline2/problem_statement.pdf)
-- [Solution](https://example.com/CSE412/offline2/solution.pdf)
-
+- [Problem Statement](https://github.com/NafisMahi/CSE-412-Simulation-and-Modeling-Sessional/tree/main/Offline_2)
+- [Solution](https://github.com/NafisMahi/CSE-412-Simulation-and-Modeling-Sessional/tree/main/Offline_2)
 ## Offline 3: Project Scheduling With Triangular Distribution Simulation
 - [Problem Statement](https://example.com/CSE412/offline3/problem_statement.pdf)
 - [Solution](https://example.com/CSE412/offline3/solution.pdf)
