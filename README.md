@@ -3,8 +3,8 @@
 This repository contains all the assignments for the course CSE412.
 
 ## Offline 1: Single Server Queueing System Simulation
-- [Problem Statement]([https://example.com/CSE412/offline1/problem_statement.pdf](https://github.com/NafisMahi/CSE-412-Simulation-and-Modeling-Sessional/tree/main/Offline_1))
-- [Solution]([https://example.com/CSE412/offline1/solution.pdf](https://github.com/NafisMahi/CSE-412-Simulation-and-Modeling-Sessional/tree/main/Offline_1))
+- [Problem Statement](https://github.com/NafisMahi/CSE-412-Simulation-and-Modeling-Sessional/tree/main/Offline_1)
+- [Solution](https://github.com/NafisMahi/CSE-412-Simulation-and-Modeling-Sessional/tree/main/Offline_1)
 
 ## Offline 2: Single Product Inventory System Simulation
 - [Problem Statement](https://example.com/CSE412/offline2/problem_statement.pdf)
